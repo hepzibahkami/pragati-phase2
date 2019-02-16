@@ -1,0 +1,70 @@
+#main
+{
+	background:white;
+	text-align: center;
+}
+header
+{
+	background:lavender;
+	height: 10vh; 
+	margin-right: 5%;
+	margin-left: 5%;
+	box-shadow: 4px 4px 4px 4px;
+}
+#main a{
+	text-decoration: none;
+}
+#main button{
+	background: papayawhip;
+}
+.profile{
+	color: red;
+}
+#form
+{
+	background: khaki;
+	text-align: center;
+}
+.main
+{
+	background: grey;
+	margin-bottom: : 3%;
+	padding: 2%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	box-shadow: 4px 4px 4px 4px;
+	text-align: center;
+}
+.sub{
+	width:92%;
+	background: coral;
+	margin-bottom:  5%;
+	padding: 1%;
+	border-radius: 2%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+}
+.sub1{
+	background: coral;
+	width:40%;
+	padding: 1%;
+	margin-bottom: 5%;
+	margin-right: 5%;
+	border-radius: 1%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+}
+input,select{
+	width: 90%;
+	margin: 1%;
+}
+button{
+	height:10vh;
+	margin-top: 10%;
+	width: 7%;
+	border-radius: 50%;
+	background: snow; 
+	box-shadow: 4px 4px 4px 4px;
+}
